@@ -1,4 +1,6 @@
 AQueryXamarin
 =============
 
-Lazy loading images in ListView using AQuery
+LAZY LOADING IMAGES IN LISTVIEW USING AQUERY
+
+
