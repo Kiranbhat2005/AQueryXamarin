@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message">This is Demo for lazy loading of the images in a ListView, using AQuery (Android Query).</string>
+    <string name="ApplicationName">Lazy Loading</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+  <TextView
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:layout_marginTop="20dp"
+   android:layout_marginBottom="20dp"
+   android:textColor="#ddaadd"
+   android:textSize="22sp"
+   android:text="@string/message"/>
+  
+  <ListView
+    android:layout_width="fill_parent"
+    android:layout_height="200dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:id="@+id/lvLazy"/>
+
+  <Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Clear Cache"
+    android:id="@+id/btnClearCache"/>
+
+</LinearLayout>
