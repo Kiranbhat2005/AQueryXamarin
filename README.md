@@ -1,6 +1,4 @@
-AQueryXamarin
-=============
+AQuery Xamarin Android
+=======================
 
-LAZY LOADING IMAGES IN LISTVIEW USING AQUERY
-
-
+Lazy loading of images in ListView using AQuery(Android Query) library.
