@@ -7,5 +7,6 @@ Android Query (https://code.google.com/p/android-query/) library provides variou
 
 The AQuery library(.jar) is converted to Xamarin using 'Java Binding Library' to dll and added to the project. You can download the dll from 'Libs' folder(AQueryXamarin / ListViewLazyLoadingImages / ListViewLazyLoadingImages / Libs). The sample application shows how to lazy load the images in the listview. The details regarding APIs can be found in the above mentioned URL.
 
-NOTE: 1) Android Query is licensed under Apache 2.0 and since this is the C# version of the same library, the same licensing applies.
-      2) More details regarding the sample application will be added soon.
+*NOTE:*
+1- Android Query is licensed under Apache 2.0 and since this is the C# version of the same library, the same licensing applies.
+2- More details regarding the sample application will be added soon.
