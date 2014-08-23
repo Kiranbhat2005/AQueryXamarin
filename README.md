@@ -1,7 +1,7 @@
 AQuery (Android Query) Library for Xamarin Android
 ==================================================
 
-##This is demo for Lazy loading of images in ListView using AQuery(Android Query) library.##
+####This is demo for Lazy loading of images in ListView using AQuery(Android Query) library.####
 
 Android Query (https://code.google.com/p/android-query/) library provides various APIs to make async calls and manipulate UI in Android. Although there are various samples available in Android on its usage, there are not many example to use it in Xamarin.
 
